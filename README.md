@@ -15,7 +15,7 @@
 - 🏫 I have a course as Web Developer at [University Tecnologica de Latinoamerica UTEL ](https://utel.edu.mx/).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1vr_9Xwfp4-LuQTycBjOCAHiF22570_ew/view?usp=sharing).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]([https://drive.google.com/file/d/1vr_9Xwfp4-LuQTycBjOCAHiF22570_ew/view?usp=sharing](https://drive.google.com/file/d/1Kk7lKGJ0-ORDg_XMyl-8FefFa5dCw3N-/view?usp=sharing)).
 - :boom: You can visit [MY WEBSITE](https://jcalderon.com.mx).
 <br>
 
