@@ -41,7 +41,7 @@
   </a> 
   &emsp;
   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
+    <img alt="React" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
   </a>
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
@@ -49,15 +49,15 @@
   </a>
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="Nodejs" src="https://img.shields.io/badge/nodedotjs%20-%23F7DF1E.svg?style=plastic&logo=nodedotjs&logoColor=#339933">
+     <img alt="Nodejs" src="https://img.shields.io/badge/nodedotjs%20-%23F7DF1E.svg?style=plastic&logo=nodedotjs&logoColor=white"> 
   </a>
 &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="MySQL" src="https://img.shields.io/badge/mongodb%20-%23F7DF1E.svg?style=plastic&logo=mongodb&logoColor=black">
+     <img alt="MySQL" src="https://img.shields.io/badge/mongodb%20-%23F7DF1E.svg?style=plastic&logo=mongodb&logoColor=white">
   </a>
 &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="MongoDB" src="https://img.shields.io/badge/mysql%20-%23F7DF1E.svg?style=plastic&logo=mysql&logoColor=black">
+     <img alt="MongoDB" src="https://img.shields.io/badge/mysql%20-%23F7DF1E.svg?style=plastic&logo=mysql&logoColor=white">
   </a>
 </p>
 
