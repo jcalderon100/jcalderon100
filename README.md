@@ -4,7 +4,7 @@
 
 ![hero](https://github.com/jcalderon100/Portfolio/blob/main/img/portada.png)
 
-<picture> <img align="right" src="https://github.com/jcalderon100/Portfolio/blob/main/img/portada.png" border-radius=5px></picture>
+<picture> <img align="center" src="https://github.com/jcalderon100/Portfolio/blob/main/img/portada.png" radius = 15px> </picture>
 
 <br>
 	
